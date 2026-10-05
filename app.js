@@ -1,4 +1,4 @@
-const API_URL = "https://simplebudgetmatcherapi.vercel.app/"; 
+const API_URL = "https://ordas-budgetmathcher-api.vercel.app/"; 
 const API_KEY = "my_secret_landmark_key"; // Using the auth key from your original API
 
 const FETCH_OPTIONS = {
